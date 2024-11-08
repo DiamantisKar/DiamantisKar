@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Diamantis
+- 👋 Hi, I’m Diamantis welcome to my project repository!
 - 👀 I'm a full-stack engineer who loves bringing ideas to life through code.
   From interactive front-end applications to powerful back-end solutions,
   I enjoy diving into all aspects of software development. Programming isn’t
